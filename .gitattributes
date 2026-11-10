@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+*.uasset filler=lfs diff=lfs merge=lfs -text
+*.umap  filler=lfs diff=lfs merge=lfs -text
