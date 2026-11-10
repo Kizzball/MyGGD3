@@ -5,8 +5,8 @@
 | ----------- | ----------- |
 |Goal for the week | To get one vital game feature. |
 |What I built | I have established my GitHub repository for my game document. |
-| What went wrong, and how I fixed it | Text |
-| What I decided, and why | Text |
+| What went wrong, and how I fixed it | At first, I did not know how to make the room rotate upon the player's interaction. Later, I implemented an interface that solved the problem of interaction. |
+| What I decided, and why | Because of a bug, I decided to have the room rotate key be the jump key so as to avoid the problem altogether |
 | Screenshot | Text |
 
 ### Week 8: Scope, task lists and cuts
