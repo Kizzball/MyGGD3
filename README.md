@@ -12,10 +12,10 @@
 ### Week 8: Scope, task lists and cuts
 | Sections | Entry |
 | ----------- | ----------- |
-|Goal for the week | Title |
-|What I built | Text |
-| What went wrong, and how I fixed it | Text |
-| What I decided, and why | Text |
+|Goal for the week | Finish and test my prototype |
+|What I built | I  have made almost 2 parkour rooms for the prototype. Also put in arrows to help guide in what direction the room is moving and which exit to take for each place.|
+| What went wrong, and how I fixed it | Because of the orientation of the rooms when building, the second parkour room became much more difficult to make. To aid with that, I have been using the editor and the editor play side by side to keep things aligned |
+| What I decided, and why | I chose to put the first piece of text in the corner of the starting location because I could not make it vissual fit visually anywhere else because of the spinning. |
 | Screenshot | Text |
 
 ### Week 9: Game loop
