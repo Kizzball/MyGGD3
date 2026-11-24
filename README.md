@@ -21,7 +21,7 @@
 ### Week 9: Game loop
 | Sections | Entry |
 | ----------- | ----------- |
-|Goal for the week | Title |
+|Goal for the week | Iteration AND playtesting |
 |What I built | Text |
 | What went wrong, and how I fixed it | Text |
 | What I decided, and why | Text |
@@ -58,7 +58,7 @@
 ## Asset credits
  Date | Tester | Build (& week N0.) | What they did, and where they got stuck  | What I changed | Retested |
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
-| text | text | text | text | text | text |
+| 24/11/26 | Liam Lacey | Week 9 |  He had a hard time seeing where to go next in the second parkour room | I have added target marks for where the next block will be | text |
 | text | Text | text | text | text | text |
 | text | Text | text | text | text | text |
 | text | Text | text | text | text | text |
