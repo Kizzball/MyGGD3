@@ -23,8 +23,8 @@
 | ----------- | ----------- |
 |Goal for the week | Iteration AND playtesting |
 |What I built | Text |
-| What went wrong, and how I fixed it | Text |
-| What I decided, and why | Text |
+| What went wrong, and how I fixed it | When players tested the game at first, they had no sense of direction as to where to go in the level. so, that is why I added a target marker for the platforms. |
+| What I decided, and why |  |
 | Screenshot | Text |
 
 ### Week 10: Iterate from playtests
@@ -60,8 +60,8 @@
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
 | 24/11/26 | Liam Lacey | Week 9 |  He had a hard time seeing where to go next in the second parkour room | I have added target marks for where the next block will be | text |
 | 22/11/26 | Michael Wicks | Week 9 | In the final room, He struggled to find where he was going. When having to get back to the top, he found it a bit tedious having to keep jumping to be able to jump onto a flat platform | fix the targets so they move, add more text to explain the rooms and redefine the starting rings for each room | text |
-| 24/11/26 | Andrew Jones | week 9 | the first platform had other blocks/hinders his jumping in the gane   | text | text |
-| text | Text | text | text | text | text |
+| 24/11/26 | Andrew Jones | week 9 | the first platform had other blocks/hinders his jumping in the game | text | text |
+| 24/11/26 | Sophie Rogers | week 9 | sensitive keyboard key made slightly annoying to use and control | text | text |
 | text | Text | text | text | text | text |
 
 ## Before & After
